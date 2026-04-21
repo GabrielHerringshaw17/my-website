@@ -1,0 +1,13 @@
+---
+title: "Gabriel's Website"
+---
+
+## About Me
+
+I'm a cadet at West Point and this is my first Quarto website.
+
+## Projects
+
+- CS403 Sorry! Simulation  
+- Networking Labs  
+- Chess Modeling Project  
